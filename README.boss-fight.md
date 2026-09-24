@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/tower-defense.svg" width="100%" alt="Animated tower defense: React, PowerShell, Oracle SQL, C#/.NET and Code Review towers stop every bug before it reaches the production ERP" />
+<img src="assets/boss-fight.svg" width="100%" alt="Animated RPG battle: Mustafa defeats Slow Query, Legacy Module and Merge Conflict using Oracle SQL, C#/.NET, React and Code Review" />
 
 <h3>Mustafa Jamal &nbsp;·&nbsp; Dev Team Lead &nbsp;·&nbsp; ERP Systems Architect</h3>
 
