@@ -1,63 +1,59 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Dev+Team+Lead;ERP+Systems+Architect;Vienna+Advantage+%7C+.NET+%7C+React;Building+Enterprise+Software+in+Iraq" alt="Typing SVG" />
+<img src="assets/boss-fight.svg" width="100%" alt="Animated RPG battle: Mustafa defeats Slow Query, Legacy Module and Merge Conflict using Oracle SQL, C#/.NET, React and Code Review" />
+
+<h3>Mustafa Jamal &nbsp;·&nbsp; Dev Team Lead &nbsp;·&nbsp; ERP Systems Architect</h3>
+
+<p>I lead a team building enterprise ERP systems on Vienna Advantage — .NET, React and Oracle.<br/>My job is keeping production boring.</p>
+
+<img src="https://img.shields.io/badge/Vienna_Advantage-2EA043?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 
 </div>
 
 <br/>
 
-### 👋 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I lead a development team building and customizing **enterprise ERP systems** on the Vienna Advantage platform, along with full-stack web applications. My day-to-day is less about writing code and more about **architecture, code review, and keeping a team's systems coherent** — designing data models, reviewing pull requests, and untangling legacy modules so they scale cleanly.
+**What I do**
 
-- 🏗️ Focused on **ERP customization** — Application Dictionary, custom controllers, callouts, and Oracle-backed data models
-- 🧠 Spend most of my time on **code comprehension and mentorship** — reading and reviewing more than writing
-- 🌍 Based in Iraq — work week runs **Saturday–Thursday**
-- 📚 Maintain an internal knowledge vault to keep project context, decisions, and rules consistent across a team
+- **Architecture over syntax** — data models, module boundaries, Application Dictionary design
+- **Code review as the job** — comprehension and mentorship, not just output
+- **Legacy → maintainable** — untangling old ERP modules into something a team can extend
+- **Knowledge that outlives chats** — a living vault of decisions, rules and context
 
-<br/>
+</td>
+<td width="42%" valign="top">
 
-### 🛠️ Tech Stack
+```text
+$ whoami
+mustafa — dev team lead
 
-<div align="center">
+$ status --team
+reviewing > writing
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,html,css,oracle,mssql,git,powershell,vscode,nodejs&theme=dark" />
+$ stack --primary
+vienna-advantage · dotnet
+react · oracle
 
-</div>
+$ location
+Iraq · UTC+3 · Sat–Thu
+```
 
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MustafaJamalx1&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaJamalx1&layout=compact&theme=dracula&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaJamalx1&theme=dracula&hide_border=true" />
-
-</div>
-
-<br/>
-
-### 🚀 What I Work With
-
-| Area | Stack |
-|---|---|
-| ERP Platform | Vienna Advantage (VA Admin, Application Dictionary, X-Classes) |
-| Backend | C#, .NET, ViennaAdvantageSvc, Oracle PL/SQL |
-| Frontend | React, TypeScript, JavaScript |
-| Infra | IIS, PowerShell, SQL Developer / SQLcl |
-| Practice | Code review, system architecture, team enablement |
-
-<br/>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MustafaJamalx1&label=Profile%20Views&color=2ea043&style=flat" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MustafaJamalx1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaJamalx1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
